@@ -16,7 +16,7 @@ let i = 0
 const N = 195;
 while (i < N) {
   
-  // add "timestamp" after random minutes
+  // add timestamp after random minutes
   let elapsedMillisec = randn(1, 90) * 60 * 1000;
   let millisecAfter = new Date(start.getTime() + elapsedMillisec);
   data.push(millisecAfter);
