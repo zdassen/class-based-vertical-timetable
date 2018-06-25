@@ -1,5 +1,5 @@
 # class-based-vertical-timetable
-Class based D3 timetable (vertical)
+Class based D3 timetable (vertical layout)
 
 # Example
 ```JavaScript
